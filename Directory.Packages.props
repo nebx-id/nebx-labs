@@ -16,7 +16,7 @@
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.10" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.0.0" />
     <PackageVersion Include="MimeKit" Version="4.14.0" />
-    <PackageVersion Include="MySqlConnector" Version="2.5.0" />
+    <PackageVersion Include="MySql.Data" Version="9.5.0" />
     <PackageVersion Include="Npgsql" Version="9.0.4" />
     <PackageVersion Include="Scrutor" Version="6.1.0" />
     <PackageVersion Include="Serilog.Extensions.Hosting" Version="9.0.0" />

@@ -1,5 +1,5 @@
 using System.Data.Common;
-using MySqlConnector;
+using MySql.Data.MySqlClient;
 using Nebx.Labs.Integrations.Database.Abstractions;
 
 namespace Nebx.Labs.Integrations.Database.Providers;
