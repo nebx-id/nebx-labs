@@ -8,7 +8,7 @@ namespace Nebx.Labs.AspNetCore.Extensions.Compositions;
 /// <summary>
 /// Provides extension methods for registering module-level dependencies.
 /// </summary>
-public static class ModulePipeline
+public static class PipelineComposition
 {
     /// <summary>
     /// Adds all module dependencies discovered in the specified assembly,
